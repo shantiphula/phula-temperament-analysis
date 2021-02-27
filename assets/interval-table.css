@@ -1,0 +1,16 @@
+.temper-intervals {
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 2px solid #444444;
+    margin-top: 0.5em;
+}
+
+.temper-intervals th, .temper-intervals td {
+    border: 1px solid #444444;
+    padding: 0.4em 0.5em;
+    font-size: 80%;
+    line-height: 1.2;
+    vertical-align: middle;
+    text-align: center;
+    width: 10em;
+}
